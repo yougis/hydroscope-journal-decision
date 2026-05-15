@@ -1,0 +1,54 @@
+---
+title: "Projet HydroScope"
+subtitle: "Journal des décisions"
+date: today
+---
+
+# Introduction
+Ce document consigne l'ensemble des décisions structurantes prises au cours de la Phase A du projet **HydroScope**. Il sert de base de référence pour la rédaction du **Cahier des Charges Fonctionnel (CCF)** et garantit l'alignement entre la vision stratégique de l'OEIL et les besoins métiers.
+
+
+## Tableau des arbitrages
+
+| ID  | Date     | Sujet de la décision                                                 | Instance | Statut         |
+|-----|----------|----------------------------------------------------------------------|----------|--------        |
+| D01 | 13/03/26 | Choix du **BVAEP** comme unité de gestion de référence               | COPIL    | Validé         |
+| D02 | 06/04/26 | Adoption d'une approche **multicritère pondérée**                    | COPRO    | Validé         |
+| D03 | 08/04/26 | Création de **3 interfaces distinctes** (Expert, Partenaire, Public) | OEIL     | Validé         |
+| D04 | 14/04/26 | Choix de rationaliser les interfaces à la manière des dispositifs de service numerique de l'OEIL : <br>Accès à la base de donnée <br>une application web avancée (type vulcain Pro)<br>un tableau de bord (type vulcain)     <br>des fiches de d'analyses statiques (type atlas)<br>un bilan d'analyse spatiale automatisé | | |
+| D05 |  xxxx | Choix d'un **socle Open Source**                                     | OEIL     | Validé         |
+-
+: Tableau récapitulatif des décisions du projet HydroScope {.striped .hover}
+
+---
+
+
+
+
+
+
+# Détails des décisions majeures
+
+### D01 : Unité de gestion de référence
+- **Décision :** Le **Bassin Versant d’Approvisionnement en Eau Potable (BVAEP)** est retenu comme l'unité de référence principale.
+- **Justification :** C'est le seul périmètre univoque pour tous les ouvrages garantissant la cohérence des analyses entre les acteurs.
+- **Impact technique :** Structuration du modèle de données hiérarchique ($BVAEP \leftrightarrow PP \leftrightarrow Captage$).
+
+:::: {.callout-important title="Décision issue de la réunion du 14 avril 2026"}
+
+L'interface PRINCIPALE doit permettre à chaque utilisateur de **définir ses propres pondérations** pour prioriser les bassins versants selon sa stratégie locale. La DAVAR ne souhaite pas imposer une pondération unique aux partenaires.
+
+::::
+
+### D05 : Exclusion des données brutes sensibles
+- **Décision :** L'interface ne donnera accès qu'à des **indicateurs agrégés**.
+- **Justification :** Protection de la confidentialité des données physico-chimiques, météorologiques ou de recensement des partenaires.
+- **Réf. Source :** Note de cadrage fonctionnelle v0.3.
+
+# Points en attente d'arbitrage (@todo)
+Conformément au planning macro, certains points doivent être tranchés lors des ateliers de fin Avril / début Mai 2026 :
+
+*   [ ] **Détails de l'historisation :** Définir la profondeur historique minimale (5 ou 10 ans).
+*   [ ] **Pondération dynamique :** Clarifier les métriques et coefficients pour chaque indicateur avec la DAVAR.
+*   [ ] **Canaux d'alerte :** Validation des modes de notification (Email, bandeau, notification in-app).
+
