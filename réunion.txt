@@ -1,0 +1,22 @@
+numéro réunion	Date	Type de réunion	Acteurs présents		Points clés abordés
+0	2026-02-23	Point initial	Hugo; Marjolaine ; Fabien		Lancement du projet rôle AMOA historique PPE premières réflexions techniques modèle de données architecture
+1	2026-03-10	Avancement projet	Hugo; Marjolaine ; Fabien	01:30:00	Préparation réunion de lancement cadrage du projet organisation des rôles gouvernance
+2	2026-03-13	COPIL	Hugo; Marjolaine; Emma; Stéphane; salomé	02:32:00	Présentation Hydroscope objectifs gouvernance enjeux ressource en eau définition des phases du projet
+3	2026-03-17	Débrief projet	Hugo; Marjolaine	01:00:00	Suivi de l’avancement gestion du temps organisation des tâches outils de pilotage
+4	2026-04-03	Pré-COPRO	Hugo; Marjolaine ; Fabien	01:45:00	Préparation du COPRO cadrage stratégique organisation des ateliers identification des partenaires
+5	2026-04-09	COPRO	Hugo; Marjolaine; Stéphane	02:44:00	Gouvernance du projet validation du cadrage fonctionnel rôle des interfaces analyse multicritère organisation des ateliers métiers
+6	2026-04-14	Avancement projet	Hugo; Marjolaine ; Fabien	04:50:00	Clarification des interfaces expert vs partenaire accès aux données importance de l’analyse multicritère gestion des droits utilisateurs
+7	2026-04-22	Réunion cadrage fonctionnel interne	Hugo Marjolaine	03:03:00	Travail sur les notes fonctionnelles structuration des interfaces consolidation du cadrage préparation des livrables
+8	2026-04-24	Cadrage fonctionnel	Hugo; Marjolaine; Stéphane	01:30:00	Structuration des indicateurs définition des familles enjeux pressions vulnérabilité clarification des livrables organisation des données
+9	2026-04-24	Bilatérale DAVAR	Hugo Marjolaine Stéphane	01:30:00	Échange sur les attentes DAVAR validation des orientations indicateurs organisation des données et du cadrage fonctionnel
+10	2026-05-21	Atelier métiers partenaires	Hugo Marjolaine partenaires (dont acteurs institutionnels)	02:29:00	Recueil des besoins métiers retours des acteurs identification des usages et des attentes
+11	2026-05-28	Point gestion de projet	Hugo Marjolaine	02:50:00	Suivi de l’avancement coordination des travaux organisation des prochaines étapes du projet
+12	2026-06-02	Bilatérales DIMENC	Hugo Marjolaine DIMENC	01:30:00	Échanges sur les données disponibles identification des besoins acteurs cadrage des usages potentiels
+13	2026-06-08	Point projet	Hugo Marjolaine 	01:30:00	Point sur l’avancement préparation des bilatérales suivi des échanges partenaires annulation DASS
+14	2026-06-09	Réunion présentation Hydroscope	Hugo Marjolaine Stéphane Province Sud Mairie Thio autres partenaires	03:15:00	Présentation du projet aux partenaires recueil des premiers retours organisation des bilatérales clarification des attentes
+15	2026-06-22	Bilatérale Province Sud	Hugo Marjolaine Province Sud	01:00:00	Discussion sur les indicateurs et la méthode analyse multicritère besoins spécifiques Province Sud
+16	2026-06-24	Bilatérale SIVOM	Hugo Marjolaine SIVOM	01:30:00	Échange sur les besoins terrain données disponibles contraintes opérationnelles usages attendus
+17	2026-06-26	Bilatérale EAUNC	Hugo Marjolaine SIVOM	01:30:00	Échange sur les données techniques modalités d’intégration contraintes liées aux données et aux usages
+18	2026-06-26	COPRO point indicateur	Hugo; Marjolaine; Emma; Stéphane; salomé	02:00:00	Avancement des fiches indicateurs validation des orientations préparation des livrables indicateurs
+19	2026-07-02	Bilatérale CDE	Hugo Marjolaine SIVOM	01:30:00	Discussion sur les besoins en données contraintes métiers attentes vis-à-vis de l’outil
+20	2026-07-20	Point d’avancement	Hugo; Marjolaine ; Fabien	02:00:00	Suivi global du projet ajustement des priorités organisation de la suite des travaux
